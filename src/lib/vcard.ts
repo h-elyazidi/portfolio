@@ -7,7 +7,7 @@ TITLE:Software Engineering & Startup Operations
 TEL;TYPE=CELL:+212 6 11 39 89 41
 EMAIL:m.habibelyazidi@gmail.com
 URL:https://linkedin.com/in/habib-el-yazidi
-NOTE:Software Engineer | Startup Operator | IT Consultant
+NOTE:
 END:VCARD`;
 
   const blob = new Blob([vcard], { type: "text/vcard;charset=utf-8" });

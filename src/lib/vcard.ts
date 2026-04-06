@@ -14,7 +14,7 @@ END:VCARD`;
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;
-  a.download = "contact.vcf";
+  a.download = "Habib_EL_YAZIDI.vcf";
   a.click();
   URL.revokeObjectURL(url);
 }

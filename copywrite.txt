@@ -1,0 +1,53 @@
+PORTFOLIO COPYWRITE - HABIB EL YAZIDI
+
+--- NAVIGATION ---
+About / À propos
+Experience / Expérience
+Projects / Projets
+Education / Educations
+
+--- HERO ---
+Name: Habib EL YAZIDI
+Roles (EN): Software Engineering, AI & Intelligent Systems, Startup Operations, Keynote Speaking & Training | 1.3K+ Minds Impacted | 17+ Institutions
+Roles (FR): Ingénierie Logicielle, IA & Systèmes Intelligents, Opérations Startup, Keynote Speaking & Formation | 1300+ Esprits Impactés | 17+ Institutions
+Buttons: Save Contact / Enregistrer le Contact, Connect on LinkedIn / Se connecter sur LinkedIn
+
+--- ABOUT ---
+Title: About Me / À Propos
+Text (EN): Future Software Engineer and former Managing Director, I specialize in architecting high-performance systems and leading cross-functional teams. At LSTA Technologies, I scaled operations to 15 collaborators across 5 divisions, securing the 'Best Regional Startup' award. I don't just build software; I build business-driven solutions that dominate markets. Beyond the code, I am a catalyst for growth and high-level networking. Passionate about exchanging on Business, Tech, and Soft Skills, I've impacted over 1,300+ minds across 17+ institutions as a speaker and trainer.
+Text (FR): Futur Ingénieur en Génie Informatique et ancien Directeur Général, je me spécialise dans l'architecture de systèmes haute performance et le pilotage d'équipes pluridisciplinaires. Chez LSTA Technologies, j'ai structuré une équipe de 15 collaborateurs répartis en 5 pôles, menant l'entreprise au prix de la Meilleure Startup Régionale. Je ne développe pas seulement du logiciel ; je conçois des solutions business stratégiques. Au-delà du code, je suis un catalyseur de croissance et de networking de haut niveau. Passionné par le partage et l'échange sur le Business, la Tech et les Soft Skills, j'ai impacté plus de 1300 esprits à travers 17+ institutions en tant que conférencier et formateur.
+
+--- EXPERIENCE ---
+1. Deputy CEO | Managing Director / Directeur Général @ LSTA Technologies (Feb. 2024 — Jun. 2025)
+   EN: Directed a multidisciplinary team of 15 collaborators organized into 5 divisions. Led the company to win the 'Best Regional Startup' award. Spearheaded fundraising strategies and institutional partnerships, steering C-level board decisions.
+   FR: Pilotage de la croissance : Dirigé et structuré une équipe pluridisciplinaire de 15 collaborateurs répartis en 5 pôles, menant l'entreprise à remporter le prix de la Meilleure Startup de la région de l'Oriental. Déploiement d'une stratégie de levée de fonds et de partenariats institutionnels.
+
+2. Team Lead / Responsable d'Équipe @ LSTA Technologies (Jul. 2023 — Feb. 2024)
+   EN: Managed recruitment, onboarding, and daily performance of a 15-person team. Implemented KPI frameworks to align technical velocity with the startup's objectives.
+   FR: Management & structuration : Piloté le recrutement, l'intégration et la performance quotidienne de l'équipe de 15 collaborateurs. Instauration de KPIs pour aligner la vélocité technique sur les objectifs de la startup.
+
+--- PROJECTS ---
+1. School Transport Management SaaS Platform / Plateforme SaaS de Gestion de Transport Scolaire
+   EN: Microservices architecture and automation of school administration, driver assignment, and parent account generation. Integrated AI algorithms for dynamic routing and inter-company billing automation.
+   FR: Architecture Microservices et automatisation de l'administration scolaire, assignation des chauffeurs et génération des comptes parents. Intégration d'algorithmes d'IA pour le calcul dynamique des itinéraires et automatisation de la facturation.
+   Tags: Infrastructure, .NET, IA
+
+2. Pharmaceutical Inventory Management System / Système de Gestion de Stock Pharmaceutique
+   EN: Modular and scalable architecture ensuring complete digitization and security of the pharmacy lifecycle. High-efficiency UX design drastically reducing task execution time for daily operations.
+   FR: Architecture modulaire évolutive garantissant la digitalisation complète et sécurisée du cycle de vie des stocks en officine. Interface ergonomique réduisant de manière drastique le temps d'exécution des tâches de gestion quotidiennes.
+   Tags: Software Dev, Security, Scale
+
+3. Precious Metals Investment Mobile App / Application Mobile d'Investissement & Métaux Précieux
+   EN: Fintech solution featuring a local investment wallet with a real-time alert engine. Implemented predictive AI analyzing global trends to generate highly personalized investment strategies.
+   FR: Solution Fintech dotée d'un Wallet local d'investissement avec un moteur d'alertes en temps réel. Implémentation d'une IA prédictive analysant les tendances mondiales pour générer des stratégies d'investissement personnalisées.
+   Tags: Fintech, Predictive IA, Strategy
+
+--- EDUCATION ---
+Computer Engineering - State Engineer's Degree / Diplôme d'Ingénieur d'État en Génie Informatique
+School: School of Advanced Engineering Studies Oujda, EHEI
+Period: 2022 — 2027 (Expected Completion) / 2022 — 2027 (Fin Prévue)
+Text (EN): Advanced studies in Software Engineering, AI, and Cloud Infrastructure. Active leadership as President of the Student Board (BDE) since 2023.
+Text (FR): Études approfondies en Génie Logiciel, IA et Infrastructure Cloud. Leadership actif en tant que Président du Bureau des Étudiants (BDE) depuis 2023.
+
+--- FOOTER ---
+All rights reserved / Tous droits réservés.

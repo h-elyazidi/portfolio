@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 import { useLang } from "@/context/LangContext";
 import { t, tProjects } from "@/lib/i18n";
-import project1 from "@/assets/project-1.jpg";
-import project2 from "@/assets/project-2.jpg";
-import project3 from "@/assets/project-3.jpg";
-import project4 from "@/assets/project-4.jpg";
+import project1 from "@/assets/project-1.webp";
+import project2 from "@/assets/project-2.webp";
+import project3 from "@/assets/project-3.webp";
+import project4 from "@/assets/project-4.webp";
 
 const projectImages = [project1, project2, project3, project4];
 
@@ -30,10 +30,13 @@ const ProjectsSection = () => {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 0.6 }}
         >
-          <p className="text-primary text-sm font-medium tracking-widest uppercase mb-2">
-            {t("projects.title", lang)}
-          </p>
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-foreground mb-12">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="h-0.5 w-10 bg-primary/40 rounded-full" />
+            <p className="text-primary text-xs font-bold tracking-[0.3em] uppercase">
+              {t("projects.title", lang)}
+            </p>
+          </div>
+          <h2 className="text-4xl sm:text-6xl font-display font-bold text-foreground mb-16 tracking-tight">
             {t("projects.subtitle", lang)}
           </h2>
         </motion.div>

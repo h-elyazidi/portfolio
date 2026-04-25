@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { useLang } from "@/context/LangContext";
 import { t } from "@/lib/i18n";
-import me from "@/assets/me.jpeg";
-import me2 from "@/assets/me2.jpeg";
+import me from "@/assets/me.webp";
+import me2 from "@/assets/me2.webp";
 
 const AboutSection = () => {
   const { lang } = useLang();
@@ -16,10 +16,13 @@ const AboutSection = () => {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 0.6 }}
         >
-          <p className="text-primary text-sm font-medium tracking-widest uppercase mb-2">
-            {t("about.title", lang)}
-          </p>
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-foreground mb-12">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="h-0.5 w-10 bg-primary/40 rounded-full" />
+            <p className="text-primary text-xs font-bold tracking-[0.3em] uppercase">
+              {t("about.title", lang)}
+            </p>
+          </div>
+          <h2 className="text-4xl sm:text-6xl font-display font-bold text-foreground mb-16 tracking-tight">
             {t("about.subtitle", lang)}
           </h2>
 
@@ -56,14 +59,12 @@ const AboutSection = () => {
                 whileInView={{ opacity: 1, scale: 1 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: 0.1 }}
-                className="relative rounded-2xl overflow-hidden aspect-[16/10] shadow-sm order-last md:order-first"
+                className="relative rounded-2xl overflow-hidden aspect-[16/10] shadow-sm order-last md:order-first bg-secondary"
               >
                 <img
                   src={me2}
                   alt="Collaborative work"
                   loading="lazy"
-                  width={800}
-                  height={500}
                   className="w-full h-full object-cover"
                 />
               </motion.div>

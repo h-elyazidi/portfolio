@@ -124,11 +124,12 @@ export function tArray(path: string, lang: Lang): string[] {
 }
 
 export function tExperience(lang: Lang) {
-  return translations.experience.roles.map((role) => ({
+  return translations.experience.roles.map((role, index) => ({
     title: role.title[lang],
     company: role.company[lang],
     period: role.period[lang],
     description: role.description[lang],
+    icon: `company-${index + 1}.webp`,
   }));
 }
 

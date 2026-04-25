@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import { useLang } from "@/context/LangContext";
 import { t } from "@/lib/i18n";
 import { GraduationCap } from "lucide-react";
-import universityImg from "@/assets/university.jpg";
-import schoolLogo from "@/assets/school-logo.png"; // User will add this later
+import universityImg from "@/assets/university.webp";
+import schoolLogo from "@/assets/school-logo.webp"; // User will add this later
 
 const EducationSection = () => {
   const { lang } = useLang();
@@ -17,10 +17,13 @@ const EducationSection = () => {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 0.6 }}
         >
-          <p className="text-primary text-sm font-medium tracking-widest uppercase mb-2">
-            {t("education.title", lang)}
-          </p>
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-foreground mb-8">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="h-0.5 w-10 bg-primary/40 rounded-full" />
+            <p className="text-primary text-xs font-bold tracking-[0.3em] uppercase">
+              {t("education.title", lang)}
+            </p>
+          </div>
+          <h2 className="text-4xl sm:text-6xl font-display font-bold text-foreground mb-16 tracking-tight">
             {t("education.subtitle", lang)}
           </h2>
 
